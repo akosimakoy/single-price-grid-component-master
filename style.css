@@ -31,8 +31,8 @@ main {
     background-color: hsl(0, 0%, 100%);
     padding: 40px 40px 30px 40px;
     /* padding: 2.5rem 2.5rem 2.813rem 2.5rem; */
-    /* padding: 2.5em 2.5em 1.875em 2.5em;
-} */
+    /* padding: 2.5em 2.5em 1.875em 2.5em; */
+} 
 .top h1 {
     color: hsl(179, 62%, 43%);
     /* margin-block-end: 25px; */
